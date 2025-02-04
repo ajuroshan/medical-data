@@ -78,6 +78,7 @@ THIRD_PARTY_APPS = [
 CUSTOM_APPS = [
     'base',
     'authentication',
+    'home'
 ]
 
 INSTALLED_APPS += CUSTOM_APPS + THIRD_PARTY_APPS
